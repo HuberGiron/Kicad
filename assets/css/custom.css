@@ -17,7 +17,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 /* Título del sitio en el sidebar */
 .side-bar .site-title {
   color: #ffffff !important;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1.4rem;
 }
 
@@ -31,7 +31,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 }
 .nav-list .nav-list-link.active {
   color: #FFD5DE !important;
-  font-weight: 700;
+  font-weight: 500;
   background-color: rgba(255,255,255,0.12) !important;
 }
 .nav-list .nav-list-link:hover {
@@ -169,7 +169,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 
 /* Nivel 1 (padres) */
 .side-bar .nav-list > .nav-list-item > .nav-list-link {
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: .2px;
   font-size: 1.05rem;
   padding-left: 1rem;
@@ -178,7 +178,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 
 /* Nivel 2 (hijos) */
 .side-bar .nav-list .nav-list-item .nav-list .nav-list-link {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 0.95rem;
   padding-left: 1.75rem;
   position: relative;
@@ -211,7 +211,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
 }
 .side-bar .nav-list .nav-list-link.active {
   color: #ffffff !important;
-  font-weight: 700;
+  font-weight: 500;
   background: rgba(255,255,255,0.20) !important;
 }
 
