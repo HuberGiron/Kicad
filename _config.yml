@@ -1,4 +1,4 @@
-title: "KiCad: Tu primera PCB de cero a fabricación"
+title: "KiCad"
 description: "Tutorial completo paso a paso — esquemático, PCB, ruteo, agujeros, plano de tierra, logo, 3D, exportaciones (STEP/STL/DXF) y Gerbers."
 
 # ✅ Modo recomendado en GitHub Pages:
@@ -17,9 +17,10 @@ just_the_docs:
   footer_content: ""
 
 search_enabled: true
-aux_links:
-  "Repositorio en GitHub":
-    - "https://github.com/hubergiron/Kicad"
+
+# aux_links:
+#   "Repositorio en GitHub":
+#     - "https://github.com/hubergiron/Kicad"
 
 exclude:
   - "Gemfile"
