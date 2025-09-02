@@ -10,7 +10,7 @@ Repositorio tipo **Just the Docs** con un tutorial **paso a paso** para crear tu
 > Este repo ya trae `_config.yml` para Just the Docs. Si **ya tienes estilos propios**, colócalos en `assets/css/custom.css` o ajusta `_config.yml` a tu preferencia.
 
 ## Dónde poner imágenes
-Coloca tus capturas e ilustraciones en `assets/img/` y referencia las rutas en los `.md` así:  
+Coloca tus capturas e  ilustraciones en `assets/img/` y referencia las rutas en los `.md` así:  
 `![Texto alternativo](assets/img/nombre-imagen.png)`
 
 ## Índice
