@@ -1,0 +1,16 @@
+title: "Documentación"
+description: "Ejemplo de documentación utilizando just he docs"
+theme: just-the-docs
+
+url: "https://hubergiron.github.io"
+baseurl: "/Kicad"
+
+permalink: pretty
+search_enabled: true
+
+just_the_docs:
+  # ...
+  # incluir CSS adicional
+  custom_css:
+    - "assets/css/custom.css"
+  footer_content: ""
