@@ -24,3 +24,4 @@ Este tutorial te guía **desde cero** hasta tener tu PCB lista para **fabricaci�
 **Imágenes sugeridas** para esta página (colócalas en `assets/img/` y referencia aquí si gustas):  
 - `kicad-suite.png`: Pantalla inicial de la suite KiCad.  
 - `proyecto-carpeta.png`: Estructura de archivos de un proyecto KiCad.
+
