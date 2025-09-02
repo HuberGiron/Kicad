@@ -10,6 +10,12 @@ plugins:
 url: "https://hubergiron.github.io"
 baseurl: "/Kicad"
 
+just_the_docs:
+  # incluir CSS adicional
+  custom_css:
+    - "assets/css/custom.css"
+  footer_content: ""
+
 search_enabled: true
 aux_links:
   "Repositorio en GitHub":
